@@ -40,39 +40,22 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
+        - name: IP111
+          description: 全方位查询您的IP地址。
+          url: https://www.ip111.cn/
+        - name: 飞机注销
+          description: 注销被感染或失去控制权的Telegram。
+          url: https://my.telegram.org/auth/
+        - name: 苹果海外ID注册
+          description: 详细介绍如何快速注册海外苹果ID，并提供完整的步骤操作说明。
+          url: https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID/
+        - name: 谷歌浏览器
+          description: 专为您而打造的浏览器。
+          url: https://www.google.com/chrome/
+        - name: Edge浏览器
+          description: 专为您而打造的浏览器
+          url: https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB/
+          
     - name: 界面灵感
       sites:
         - name: 咕噜素材
@@ -84,9 +67,7 @@ content:
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
+          
     - name: 社区资讯
       sites:
         - name: 雷锋网
@@ -98,30 +79,4 @@ content:
         - name: 数英网
           description: 数字媒体及职业招聘网站
           url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
+
