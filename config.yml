@@ -58,4 +58,9 @@ content:
         - name: Edge浏览器
           description: 专为您而打造的浏览器
           url: https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB/
-
+        - name: Whats App
+          description: 简单、可靠且私密地收发消息和通话体验，在世界各地均可获享。
+          url: https://www.whatsapp.com/
+        - name: Telegram
+          description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁。
+          url: https://telegram.org/
