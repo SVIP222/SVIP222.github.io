@@ -54,8 +54,8 @@ content:
         - name: 苹果海外ID注册
           description: 详细介绍如何快速注册海外苹果ID，并提供完整的步骤操作说明。
           url: https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID/
-        - name: 白描
-          description: 高效准确的图片转文字识别、图片文字提取。
+        - name: 白描网页版
+          description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com/
           
     - name: 🏖️软件中心
@@ -72,3 +72,12 @@ content:
         - name: Telegram
           description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁。
           url: https://apps.apple.com/tw/app/telegram-lite/id946399090?mt=12/
+
+    - name: 🏖️波场链接
+      sites:
+        - name: Tronscan
+          description: USDT-TRC20 交易记录查询。
+          url: https://tronscan.org/#/
+        - name: Etherscan
+          description: 以太坊区块链 交易记录查询。
+          url: https://etherscan.io/
