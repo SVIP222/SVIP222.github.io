@@ -39,16 +39,24 @@ content:
   categories:
     - name: 🔥热门必备
       sites:
+        - name: AmyMind
+          description: 轻松创建思维导图。
+          url: https://amymind.com/zh-cn
         - name: IP111
           description: 全方位查询您的IP地址。
           url: https://www.ip111.cn/
+        - name: VirusTotal
+          description: 分析可疑文件、域、IP 和 URL 以检测恶意软件和其他漏洞。
+          url: https://www.virustotal.com
         - name: 飞机注销
           description: 注销被感染或失去控制权的Telegram。
           url: https://my.telegram.org/auth/
         - name: 苹果海外ID注册
           description: 详细介绍如何快速注册海外苹果ID，并提供完整的步骤操作说明。
           url: https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID/
-
+        - name: 苹果海外ID注册
+          description: 高效准确的图片转文字识别、图片文字提取。
+          url: https://web.baimiaoapp.com/
           
     - name: 🏖️软件中心
       sites:
