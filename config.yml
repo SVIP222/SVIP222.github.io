@@ -84,6 +84,9 @@ content:
 
     - name: 💎工具箱
       sites:
+        - name: Gmail
+          description: 安全、智能、易于使用的电子邮件。
+          url: https://mail.google.com
         - name: VPN
-          description: 获取免费的VPN, 私密访问海外网址。
+          description: 私密访问海外网址。
           url: https://876vpn.com
