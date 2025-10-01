@@ -54,7 +54,7 @@ content:
         - name: 苹果海外ID注册
           description: 详细介绍如何快速注册海外苹果ID，并提供完整的步骤操作说明。
           url: https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID/
-        - name: 苹果海外ID注册
+        - name: 白描
           description: 高效准确的图片转文字识别、图片文字提取。
           url: https://web.baimiaoapp.com/
           
