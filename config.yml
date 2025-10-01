@@ -58,7 +58,7 @@ content:
           description: 高效准确的图片转文字识别、提取。
           url: https://web.baimiaoapp.com/
           
-    - name: 🏖️软件中心
+    - name: 💎软件中心
       sites:
         - name: 谷歌浏览器
           description: 专为您而打造的浏览器。
@@ -73,7 +73,7 @@ content:
           description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁。
           url: https://apps.apple.com/tw/app/telegram-lite/id946399090?mt=12/
 
-    - name: 🏖️波场链接
+    - name: 💎波场链接
       sites:
         - name: Tronscan
           description: USDT-TRC20 交易记录查询。
@@ -81,3 +81,9 @@ content:
         - name: Etherscan
           description: 以太坊区块链 交易记录查询。
           url: https://etherscan.io/
+
+    - name: 💎工具箱
+      sites:
+        - name: VPN
+          description: 获取免费的VPN, 私密访问海外网址。
+          url: https://876vpn.com
