@@ -72,6 +72,9 @@ content:
         - name: Telegram
           description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁。
           url: https://apps.apple.com/tw/app/telegram-lite/id946399090?mt=12/
+        - name: Ledger Live
+          description: 提供一个安全的界面来购买、交易、质押和管理加密货币。 同时将您的私钥安全地存储在离线硬件设备中。
+          url: https://www.ledger.com/zh-hans
 
     - name: 💎波场链接
       sites:
