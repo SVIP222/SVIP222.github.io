@@ -84,6 +84,9 @@ content:
         - name: Etherscan
           description: 以太坊区块链 交易记录查询。
           url: https://etherscan.io/
+        - name: 欧易
+          description: 数字货币交易，实时动态汇率查询。
+          url: https://www.okx.com/zh-hans
 
     - name: 💎工具箱
       sites:
