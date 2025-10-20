@@ -39,8 +39,6 @@ content:
   categories:
     - name: 🔥热门必备
       sites:
-    - name: 常用推荐必备
-      sites:
         - name: AmyMind
           description: 轻松创建思维导图。
           url: https://amymind.com/zh-cn
@@ -50,8 +48,6 @@ content:
         - name: VirusTotal
           description: 分析可疑文件、域、IP 和 URL 以检测恶意软件和其他漏洞。
           url: https://www.virustotal.com
-    - name: 🧰工具箱
-      sites:
         - name: 飞机注销
           description: 注销被感染或失去控制权的Telegram。
           url: https://my.telegram.org/auth/
