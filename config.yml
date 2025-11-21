@@ -76,7 +76,7 @@ content:
           description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁。
           url: https://apps.apple.com/tw/app/telegram-lite/id946399090?mt=12
         - name: Ledger
-          description: 加密货币钱包，DeFi与Web3的安全保护。
+          description: Ledger 加密货币钱包，DeFi与Web3的安全保护。
           url: https://www.ledger.com/zh-hans
 
     - name: 波场链接
