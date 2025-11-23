@@ -64,19 +64,19 @@ content:
     - name: 软件中心
       sites:
         - name: 谷歌浏览器
-          description: 专为您而打造的浏览器
+          description: 轻巧好用的浏览器
           url: https://www.google.com/chrome
         - name: Edge浏览器
-          description: 专为您而打造的浏览器
+          description: 便捷的浏览器
           url: https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB
         - name: Whats App
-          description: 简单、可靠且私密地收发消息和通话体验，在世界各地均可获享
+          description: 简单、私密地收发消息和通话体验
           url: https://www.whatsapp.com
         - name: Telegram
-          description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁
+          description: 信息严格加密，并且可以自毁
           url: https://telegram.org
         - name: Telegram(App Store)
-          description: 一款基于云的移动和桌面消息应用程序，信息经过严格加密，并且可以自毁
+          description: 信息严格加密，并且可以自毁
           url: https://apps.apple.com/tw/app/telegram-lite/id946399090?mt=12
         - name: Ledger
           description: Ledger 加密货币钱包，DeFi与Web3的安全保护
@@ -88,10 +88,10 @@ content:
           description: USDT-TRC20 交易记录查询
           url: https://tronscan.org/#/
         - name: Etherscan
-          description: 以太坊区块链 交易记录查询
+          description: ETH区块链 交易记录查询
           url: https://etherscan.io/
         - name: 欧易
-          description: 数字货币交易，实时动态汇率查询
+          description: 实时了解动态汇率
           url: https://www.okx.com/zh-hans
 
     - name: 工具箱
