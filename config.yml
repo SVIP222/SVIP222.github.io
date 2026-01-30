@@ -54,9 +54,6 @@ content:
         - name: 飞机注销
           description: 注销被感染或失去控制权的Telegram
           url: https://my.telegram.org/auth/
-        - name: 苹果海外ID注册
-          description: 详细介绍如何快速注册海外苹果ID
-          url: https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID/
         - name: 白描网页版
           description: 高效准确的图片转文字识别、提取
           url: https://web.baimiaoapp.com
@@ -90,6 +87,9 @@ content:
         - name: Etherscan
           description: ETH区块链 交易记录查询
           url: https://etherscan.io/
+        - name: 区块浏览器
+          description: BTC 区块链 交易记录查询
+          url: https://www.blockchain.com/explorer
         - name: 欧易
           description: 实时了解动态汇率
           url: https://www.okx.com/zh-hans
@@ -102,3 +102,6 @@ content:
         - name: VPN
           description: 私密访问海外网址
           url: https://876vpn.com
+        - name: 苹果海外ID注册
+          description: 详细介绍如何快速注册海外苹果ID
+          url: https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID/
