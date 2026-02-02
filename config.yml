@@ -39,9 +39,9 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: GitHub
-          description: 代码托管平台
-          url: https://github.com
+        - name: Wormhole
+          description: 简单，私密的文件分享
+          url: https://wormhole.app/
         - name: AmyMind
           description: 轻松创建思维导图
           url: https://amymind.com/zh-cn
