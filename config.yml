@@ -85,8 +85,11 @@ content:
           description: USDT-TRC20 交易记录查询
           url: https://tronscan.org/#/
         - name: Etherscan
-          description: ETH区块链 交易记录查询
+          description: ETH 区块链 交易记录查询
           url: https://etherscan.io/
+        - name: BNB区块链
+          description:  BNB 智能链的区块浏览器和分析平台
+          url: https://bscscan.com/
         - name: 区块浏览器
           description: BTC 区块链 交易记录查询
           url: https://www.blockchain.com/explorer
